@@ -93,15 +93,15 @@ form.addEventListener('submit',(e)=> {
     
     
 
-    axios.post('./data.json', newObj)
-        .then(res => {
-            console.log('New object added successfully:', res.data);
-        })
-        .catch(err => {
-            console.log(err.message)
-        })
+    // axios.post('./data.json', newObj)
+    //     .then(res => {
+    //         console.log('New object added successfully:', res.data);
+    //     })
+    //     .catch(err => {
+    //         console.log(err.message)
+    //     })
 
-    render()
+    // render()
 })
 
 

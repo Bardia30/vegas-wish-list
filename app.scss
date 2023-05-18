@@ -40,6 +40,7 @@ main{
     display: flex;
     flex-direction: column;
     justify-content: space-around;
+    align-items: center;
     &__title{
         color:#E74646;
         text-align: center;
@@ -52,9 +53,11 @@ main{
         color:#FA9884;
     }
     &__img{
-       border: 2px solid #FA9884;
-       border-radius: 4px;
-       box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);  
+        width:15rem;
+        height: 10rem;
+        border: 2px solid #FA9884;
+        border-radius: 4px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);  
     }
     &__drive{
         color:#FA9884;
@@ -78,6 +81,7 @@ main{
     display: flex;
     flex-direction: column;
     justify-content: space-around;
+    height:24rem;
     &__input{
         background-color: #FFF3E2;
         border: 2px solid #FA9884;

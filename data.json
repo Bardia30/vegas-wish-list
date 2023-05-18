@@ -1,0 +1,79 @@
+[
+    {
+        "cardTitle": "Jaburritos Sushi Burritos",
+        "cardImage": "./assets/jaburritos.jpg",
+        "walkValue": "3 mins",
+        "driveValue": "0 mins",
+        "mapLocation": "https://goo.gl/maps/6G2qocPxPjq9pCg28"
+    },
+    {
+        "cardTitle": "Fremont Street Experience",
+        "cardImage": "./assets/fremont.jpg",
+        "walkValue": "1h 20 mins",
+        "driveValue": "15 min car, 33 min bus",
+        "mapLocation": "https://goo.gl/maps/K6e3BjxtYDkJArAP8"
+    },
+    {
+        "cardTitle": "Neon Museum",
+        "cardImage": "./assets/neon.jpg",
+        "walkValue": "1h 34 mins",
+        "driveValue": "16 min car, 44 min bus",
+        "mapLocation": "https://goo.gl/maps/CeiBQBEs731MWLfB6"
+    },
+    {
+        "cardTitle": "The STRAT Hotel",
+        "cardImage": "./assets/strat.jpg",
+        "walkValue": "45 mins",
+        "driveValue": "10 min car, 20 min bus",
+        "mapLocation": "https://goo.gl/maps/268NUcSnjxfzRKX88"
+    },
+    {
+        "cardTitle": "The Lost Spirits Distillery",
+        "cardImage": "./assets/lost-spirits.jpg",
+        "walkValue": "40 mins",
+        "driveValue": "7 min car, 28 min bus",
+        "mapLocation": "https://goo.gl/maps/CrKW13UwzRFt8D7BA"
+    },
+    {
+        "cardTitle": "momofuku",
+        "cardImage": "./assets/momofuku.png",
+        "walkValue": "14 mins",
+        "driveValue": "15 min car, 10 min bus",
+        "mapLocation": "https://goo.gl/maps/My18rd3YqT3sbFNP6"
+    },
+    {
+        "cardTitle": "spago at the bellagio",
+        "cardImage": "./assets/spago.png",
+        "walkValue": "8 mins",
+        "driveValue": "11 min car",
+        "mapLocation": "https://goo.gl/maps/cwiJGq2NUVssxJAW9"
+    },
+    {
+        "cardTitle": "frankie's tiki room",
+        "cardImage": "./assets/frankie.jpg",
+        "walkValue": "1 hr 14 mins",
+        "driveValue": "13 min car, 45 mins bus",
+        "mapLocation": "https://goo.gl/maps/Nf7koorVFMtv1E7e7"
+    }, 
+    {
+        "cardTitle": "vanderpump a paris",
+        "cardImage": "./assets/vanderpump.jpg",
+        "walkValue": "11 mins",
+        "driveValue": "10 min car",
+        "mapLocation": "https://goo.gl/maps/YameRVAVpD7wHPb68"
+    }, 
+    {
+        "cardTitle": "Best friend (Park MGM)",
+        "cardImage": "./assets/best-friend.jpg",
+        "walkValue": "26 mins",
+        "driveValue": "14 min car, 12 min bus",
+        "mapLocation": "https://goo.gl/maps/D4PZQQGt5EZJuJ2q9"
+    }, 
+    {
+        "cardTitle": "Carbone",
+        "cardImage": "./assets/carbone.jpg",
+        "walkValue": "27 mins",
+        "driveValue": "12 min car, 23 min bus",
+        "mapLocation": "https://goo.gl/maps/rJU8orVe1o5du4HF8"
+    }
+]
