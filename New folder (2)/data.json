@@ -1,0 +1,17 @@
+[
+    {
+        "cardTitle": "Location 1",
+        "cardImage": "./assets/linq.jfif",
+        "walkValue": "20 mins",
+        "driveValue": "10 mins",
+        "mapLocation": "https://goo.gl/maps/oGREYHeP8LF25XNd7"
+    },
+    {
+        "cardTitle": "Location 2",
+        "cardImage": "./assets/linq.jfif",
+        "walkValue": "20 mins",
+        "driveValue": "10 mins",
+        "mapLocation": "https://goo.gl/maps/oGREYHeP8LF25XNd7"
+    }
+
+]

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="app.css">
+    <title>Vegas Wish List</title>
+</head>
+<body>
+    <header>
+        <h1>Vegas Wish List</h1>
+    </header>
+    
+    <main>
+        <form class="form" action="submit">
+            <label class="form__label" for="locationName">Enter Location Name: </label><br>
+            <input class="form__input" type="text" name="locationName"><br>
+            <label class="form__label" for="imageUrl">Enter Image URL: </label><br>
+            <input class="form__input" type="text" name="imageUrl"><br>
+            <label class="form__label" for="walkValue">Enter Walking Duration: </label><br>
+            <input class="form__input" type="text" name="walkValue"><br>
+            <label class="form__label" for="driveValue">Enter Driving Duration: </label><br>
+            <input class="form__input" type="text" name="driveValue"><br>
+            <label class="form__label" for="mapLocation">Enter Map Location: </label><br>
+            <input class="form__input" type="text" name="mapLocation"><br>
+            <button type="submit" class="form__btn">Add New Location</button>
+        </form>
+        <!-- <section class="card">
+            <h3 class="card__title">some place</h3>
+            <img class="card__img" src="./assets/linq.jfif"/>
+            <p class="card__walk">walking duration: <span class="card__walk-value">20 mins</span></p>
+            <p class="card__drive">drive duration: <span class="card__drive-value">10 mins</span></p>
+            <a class="card__location" href="https://goo.gl/maps/oGREYHeP8LF25XNd7">location on map</a>
+        </section> -->
+    </main>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="./index.js"></script>
+</body>
+</html>
